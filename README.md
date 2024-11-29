@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elijah, Software Developer,
 - 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate on any front end web development
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me :elijahfx43@gmail.com, discord: elijahdev2, Twitter: https://twitter.com/ElijahPete56065, Linkedin: https://www.linkedin.com/in/elijah-peter-111bb7278
 
 <!---
